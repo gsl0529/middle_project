@@ -7,6 +7,7 @@
 运行截图
 
 <div align='center'>
+  <h2>客户端</h2>
   <h4>登录界面</h4>
   <img src='middleproject/help/static/img/dl.png'>
   <h4>注册界面</h4>
@@ -25,4 +26,14 @@
   <img src='middleproject/help/static/img/bfy.png'>
   <h4>五子棋游戏界面</h4>
   <img src='middleproject/help/static/img/wzq.png'>
+  <h2>网页</h2>
+  <h4>个人信息界面</h4>
+  <img src='/img/web1.png'>
+  <h4>排行榜界面</h4>
+  <img src='/img/web2.png'>
+  <h4>平台统计信息界面</h4>
+  <img src='/img/web3.png'>
+  <img src='/img/web4.png'>
+  <h4>帮助界面</h4>
+  <img src='/img/web5.png'>
 </div>
